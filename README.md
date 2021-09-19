@@ -6,7 +6,7 @@
 
 - 🔭 I’m studying at Ha Noi University Of Industry
 - 🌱  I'm of course a Computer Engineering major -with emphasis in programming!
-
+<img alt="" class="hCL kVc L4E MIw" importance="auto" loading="auto" src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif">
 
 ## 🚀 Languages and Tools:
 
@@ -24,6 +24,6 @@
     <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/></a>
 </p>
 
-<img alt="" class="hCL kVc L4E MIw" importance="auto" loading="auto" src="https://i.pinimg.com/originals/6e/69/0b/6e690bb4fa86c32649fbca94954e97f3.gif">
+
 
 
