@@ -11,8 +11,8 @@
 ## 🚀 Languages and Tools:
 
 <p align="left" > 
-    <a href="https://developer.android.com/" margin-left="35px" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/></a>
-    <a href="https://www.java.com/en/" margin-left="35px" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
+    <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/></a>
+    <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
     <a href="https://firebase.google.com/"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
     <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/nolan/64/github.png"/></a>
