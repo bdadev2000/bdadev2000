@@ -10,7 +10,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="left" padding-left="15px"> 
     <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/></a>
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
     <a href="https://firebase.google.com/"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
