@@ -17,6 +17,18 @@
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
     <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/nolan/64/github.png"/></a>
 </p>
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+   
+<a href = "https://twitter.com/iamdevfront_end"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.facebook.com/buiducanhhauik13"><img src="https://img.icons8.com/color/64/000000/facebook.png"/></a>
+
+</p>
+
+
 
 
 
