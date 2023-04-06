@@ -5,9 +5,9 @@
 I always put my heart and soul into every single app that I develop. I also spend time learning new technologies and best practices to become a better Mobile Developer.
 
 # Skills: 
-Native Android: Kotlin
-Cross platform: Flutter 
-
+- Kotlin
+- Flutter 
+# Work:
 - 🔭 I’m currently working on ITS GLOBAL 
 
 
