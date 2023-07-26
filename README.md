@@ -9,3 +9,48 @@ I always put my heart and soul into every single app that I develop. I also spen
 - 🔭 I’m currently working on ITS GLOBAL 
 
 
+# Skills
+
+### Kotlin
+- Coroutines
+- Architecture Pattern: MVVM, MVP
+- Dependency Injection: Koin, Dagger2
+- Services
+- Content Provider
+- Audio and Video: Media3, ExoPlayer
+- Record: AudioRecord
+  
+### DART(FLUTTER)
+- State Management: Provider, GetX, Bloc, setState
+### Local Data
+- Room Dependencies
+- Shared Preferences
+- Sqlite
+
+### Networking
+- Retrofit
+- Fuel
+- Dio
+- Http
+- Graph QL
+  
+### Google Map Platform
+- Develop a feature to track the driver's movement distance.
+
+### Notification
+- Local
+- FCM (Firebase Cloud Messaging)
+
+### Firebase
+- Crashlytics
+- Auth
+- Realtime Database
+- Remote Config
+  
+### Admob
+
+## Build & Upload App to Google Play Store
+
+## English
+- Read to document & research technology
+
