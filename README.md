@@ -17,6 +17,7 @@ I am a passionate Mobile Developer who pours my heart and soul into every app I 
   
 ### DART(FLUTTER)
 - State Management: Provider, GetX, Bloc, setState
+- Syncfusion Flutter Charts
 ### Local Data
 - Room Dependencies
 - Shared Preferences
